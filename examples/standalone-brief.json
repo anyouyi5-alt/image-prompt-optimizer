@@ -1,0 +1,7 @@
+{
+  "idea": "一只白色马克杯放在木桌上，清晨自然光",
+  "mode": "standalone",
+  "aspect_ratio": "1:1",
+  "required_details": ["白色马克杯", "木桌"],
+  "exclude_from_positive": ["文字", "水印"]
+}

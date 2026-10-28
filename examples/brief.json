@@ -1,0 +1,8 @@
+{
+  "idea": "雨后的街角，一个穿黄色雨衣的小孩握着红色气球",
+  "mode": "video_first_frame",
+  "aspect_ratio": "9:16",
+  "required_details": ["黄色雨衣", "红色气球"],
+  "exclude_from_positive": ["文字", "水印"],
+  "reference_notes": "雨衣和气球的颜色在后续视频中保持一致"
+}
